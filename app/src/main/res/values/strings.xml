@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Evento</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spalsh_screen">SpalshScreen</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="facebook_app_id">875235642566480</string>
+</resources>
