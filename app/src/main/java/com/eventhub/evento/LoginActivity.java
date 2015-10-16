@@ -33,6 +33,6 @@ public class LoginActivity extends AppCompatActivity {
         });
 
     }
-    int i;
+    int j;
 
 }
